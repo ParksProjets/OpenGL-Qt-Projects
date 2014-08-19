@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS " ~~~ /home/drusk/workspaces/misc/courses/csc486/a3/SurfaceSubdivider/vendor/gtest/include;/home/drusk/workspaces/misc/courses/csc486/a3/SurfaceSubdivider/vendor/gtest ~~~  ~~~ FALSE ~~~ ")
