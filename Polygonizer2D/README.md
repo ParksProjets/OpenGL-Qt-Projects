@@ -19,7 +19,7 @@ Example
 The example UI which allows creating circles of various radii and modifying
 various parameters is shown below.
 
-![Polygonized circles](/docs/polygonizer2dui.png?raw=true "Polygonized circles")
+![Polygonized circles](./docs/polygonizer2dui.png?raw=true "Polygonized circles")
 
 Build and Run
 -------------

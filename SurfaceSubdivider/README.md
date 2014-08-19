@@ -14,7 +14,7 @@ Example
 Here are some screenshots put into a GIF showing subdivision of a cube
 (and then reversal of the process).
 
-![Subdividing cube](/docs/subdivide.gif?raw=true "Subdividing cube")
+![Subdividing cube](./docs/subdivide.gif?raw=true "Subdividing cube")
 
 Build and Run
 -------------
